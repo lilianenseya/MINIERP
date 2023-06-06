@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  h1 {
+    font-size: 25px;
+    font-weight: urbanist;
+    margin: 30px;
+    color: rgba(0,50,94,1);
+    margin-bottom:60px;
+    padding-left:30px;
+    padding-right: 156px;
+  }
+  h2 {
+    font-size: 18px;
+    width: 120px;
+    color: rgb(33, 32, 32);
+    padding-top: 70px;
+    margin: 20px;
+  }
+  .disp{
+    display: flex;
+    flex-direction: row;
+  }
+  .contenu1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 40px;
+  }
+  .container1{
+    display: flex;
+    flex-direction: column;
+  }
+  h3{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 18px;
+    padding-left:30px;
+    margin-left: 20px;
+  }
+  .p{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    border-left:8px solid #0077BA;
+    height: 300px;
+    margin-top: 20px;
+    padding:20px;
+    margin : 20px; 
+    font-size: 18px;
+    margin-bottom: 10px;
+    background-color: #fff;
+  }
+  .compte{
+   display: flex;
+   flex-direction: column;
+   margin-bottom:30px;
+   margin-top: -30px;
+   gap: 5px;
+  }
+  .B{
+    color: #0077BA;
+  }
+  
+  .Titre{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 200px;
+    height: 24px;
+    font-size:20px;  
+  }
+  
+  .famille {
+   background-color:white;
+   width: 20vw;
+   height: 100vh; 
+   margin-left: 10px;
+   border: 1px  rgb(230, 221, 221); 
+  
+  }
+  .sous-titre{
+    color: #0077BA;
+    height: 22px;
+    margin-left: 180px;
+    font-size: 14px;   
+  }
+  .arow{
+    width: 24px;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    
+  }
+  
+  li:hover{
+  background-color: rgba(0,119,118,0.17);
+  width: 360px;
+  text-align: center;
+  padding-top: 19px;
+  padding-bottom: 40px;
+   margin-left: -60px;
+  border-right: 5px solid #0077BA;
+  }
+  
+  li{
+    margin-bottom: 40px;
+    list-style: none;
+    font-size: 15px;
+    padding-left:20px;
+    width: 20vh;
+  }
+  .mmm{
+    margin-left: 60px;
+    margin-top: 140px;
+    width: 300px;
+   
+  }
+      
+  .menuItems{
+    background-color: rgb(246, 250, 251);
+    margin-left: 10px;
+    
+  }
+  .nav{
+    width: 1736px;
+    height: 84px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    background-color:#FFFF;
+    margin-top:40px;
+    margin-left:10px;
+    
+  }
+  
+  .forme-Zero{
+    width: 30px;
+    height: 30px;
+    margin: 30px;
+    margin-left: -80px;
+  }
+  
+  .zz{
+    display: flex;
+  }
+  
+  .cont-dash{
+    display: flex;
+    flex-direction: row;
+    width: 24px;
+    height: 24px;
+    color: #636363;  
+  }
+  
+  .nn{
+    margin-left: 60px;
+    margin-top: 90px;
+    width: 24px;
+    height: 24px;
+  }
+  
+  
+  
+  .inputRecherche{
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 343px;
+    height:50px;
+    border:1px solid #669ebe ;
+    display: flex;
+    flex-direction: row;
+  }
+  .icon{
+    margin-top:20px;
+    margin:10px;
+    width: 20px;
+    height: 20px;
+  }
+  .inp{
+    margin-top: 10px;
+    width: 100px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+   text-align: center;
+  }
+  .forme{
+    width: 54px;
+    height: 54px;
+    display: flex;
+    gap: 40px;
+    margin-left: 650px; 
+    margin-top: 10px;
+  }
+  
+  h6{
+    text-align: center;
+    margin-top: 400px;
+    padding-top: 20px;
+    font-size: 14px;
+    border: 1px solid rgb(206, 206, 232);
+    width: 360px;
+    height: 60px;
+   
+  }
+  .phot{
+    width: 24px;
+    height: 24px;
+    }
+  
+  .gs{
+    margin-left: 30px;
+    margin-top: -20px;
+  }
+  
+  
+  h3{
+   padding-bottom: 60px;
+   margin-left: -20px;
+     
+  }
+  .Img{
+     
+     margin-left: 20px;
+     margin-top: -20px;
+  }
+  .ML{
+    margin-left: 30px;
+    margin-top: -20px;
+  }
+  .ptr{
+    margin-left: 30px;
+    margin-top: -20px;
+  }
+  .lili{
+    margin-left: 30px;
+    margin-top: -20px;
+  }
+  .ddd{
+    margin-left: 30px;
+    margin-top: -20px;
+  }
+  
+  
+  
